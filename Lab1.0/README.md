@@ -14,5 +14,5 @@ A spy has access to assignments, their profile, blueprints/maps, and weapons. Th
 For testing use: <br>
 username: tessar1t <br>
 password: password
-<br>
+<br> <br>
 Then try the different menu options, there is also input validation.
